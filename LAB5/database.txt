@@ -1,0 +1,4 @@
+0~Dog~Rex~5~1
+1~Cat~Petya~3~2
+2~Bird~Katya~1~3
+3~Bird~Maria~13~3
